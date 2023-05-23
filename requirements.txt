@@ -4,3 +4,8 @@ chromadb
 openai
 tiktoken
 python-dotenv
+lark
+unstructured
+tabulate
+pdf2image
+pytesseract
